@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Optigra_Vk_test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity__wall">Activity_WALL</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+    <string name="title_activity_my_activity3">MyActivity3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_adapter">AdapterActivity</string>
+    <string name="title_activity_adapter_activity">Adapter_activity</string>
+    <string name="action_sign_in_short">Sign in with VK</string>
+    <string name="action_sign_in_force">Force OAuth</string>
+    <string name="users_get">users.get</string>
+    <string name="friends_get">friends.get</string>
+    <string name="captcha_force">captcha.force</string>
+    <string name="wall_post">wall.post</string>
+    <string name="upload_photo">upload photo</string>
+    <string name="upload_photo_to_wall">upload photo to wall</string>
+    <string name="upload_several_photos_to_wall">upload several photos to wall</string>
+    <string name="continue_using_app">Continue using test application</string>
+    <string name="test_validation">Test validation</string>
+    <string name="logout">Logout</string>
+
+</resources>
